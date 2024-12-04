@@ -1,6 +1,6 @@
 ![banner](./images/Lagotto_Banner_Jon.png)
 
-## Hi there I'm Jon Kirkpatrick👋
+## Hi there 👋
 
 <!--
 **JonKirkpatrick/JonKirkpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
