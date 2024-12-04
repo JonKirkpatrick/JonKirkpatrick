@@ -1,4 +1,4 @@
-![banner](./images/Lagotto_Banner_Jon.png)
+![banner](./images/Lagotto_Banner_Jon_New.png)
 
 ## Hi there 👋
 
