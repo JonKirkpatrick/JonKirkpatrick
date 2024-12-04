@@ -1,4 +1,4 @@
-![banner](./images/banner.png)
+![banner](./images/Lagotto_Banner_Jon.png)
 
 ## Hi there I'm Jon Kirkpatrick👋
 
