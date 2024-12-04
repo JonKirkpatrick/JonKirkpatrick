@@ -1,7 +1,5 @@
 ![banner](./images/Lagotto_Banner_Jon_New.png)
 
-## Hi there 👋
-
 <!--
 **JonKirkpatrick/JonKirkpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- Introduction Section -->
 ## About Me
-I’m a **Pure Mathematics and Computer Science Honours Student** with a background in electronics manufacturing. My focus is on blending rigorous mathematical foundations with practical programming skills to solve complex problems elegantly. 
+I’m a **Pure Mathematics and Computer Science Student** with a background in electronics manufacturing. My focus is on blending rigorous mathematical foundations with practical programming skills to solve complex problems elegantly. 
 
 🔹 **Currently exploring:** CUDA programming, reinforcement learning, and graph theory  
 🔹 **Aspirations:** To apply my skills in software development, build tools that matter, and contribute to open-source projects
