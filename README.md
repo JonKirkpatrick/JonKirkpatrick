@@ -61,7 +61,3 @@ Here are a few highlights of my recent explorations:
 | **Portfolio**        | [Visit my site](https://yourwebsite.com)            |
 
 ---
-
-<div align="center" style="font-size: 0.9rem; color: #555;">
-  "Strive for simplicity but never sacrifice elegance."  
-</div>
