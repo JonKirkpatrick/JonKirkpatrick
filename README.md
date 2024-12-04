@@ -1,20 +1,5 @@
 ![banner](./images/Lagotto_Banner_Jon_New.png)
 
-<!--
-**JonKirkpatrick/JonKirkpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- Header Section -->
 <div align="center" style="border-bottom: 2px solid #ccc; padding-bottom: 20px;">
   <h1>Welcome to My GitHub</h1>
@@ -44,26 +29,27 @@ I’m a **Pure Mathematics and Computer Science Student** with a background in e
 
 | **Project**      | **Description**                                                                                      | **Technologies**        |
 |-------------------|------------------------------------------------------------------------------------------------------|-------------------------|
-| [CUDA Collatz](https://github.com/your-username/cuda-collatz) | Optimized CUDA kernel for calculating Collatz sequence lengths.                                 | CUDA, C++              |
+| [CUDA Collatz](https://github.com/your-username/cuda-collatz) | Optimized CUDA kernel for calculating Collatz sequence lengths.                                 | CUDA, C++, Python              |
 | [Greek Cuisine Recipes](https://github.com/your-username/greek-recipes) | An exploration of Hellenic culinary traditions with recipes and cultural insights.              | Markdown, Cooking      |
 | [Interactive RL Gridworld](https://github.com/your-username/rl-gridworld) | Visualizing Q-value evolution in reinforcement learning gridworlds.                            | Python, Matplotlib     |
-
+| [Light Hearted Storybook](https://github.com/your-username/tibbsorigin) | An original story about the Newfoundland tradition of Tibb's Eve.                               | Latex               |
+| [FPGA Projects](https://github.com/your-username/DE10_Lite) | A variety of small programs written in Verilog for use on a DE10-Lite                                     | Verilog, C                 |
 ---
 
 ## Recent Work
 Here are a few highlights of my recent explorations:
-1. **Algorithm Design:** Completed COMP 3600 with a focus on NP-hard problems and approximation strategies.
-2. **Graph Visualization:** Experimented with balanced ternary and binary hypercube graphs for Collatz environments.
-3. **Numerical Analysis:** Applied numerical techniques to model physical systems in electronics manufacturing.
+1. **Reinforcement Learning:** Completed MATH 4250 with a focus on manual implementations of RL agents in Python without using any ML libraries.
+2. **Graph Visualization:** Experimented with balanced ternary and binary hypercube graphs for Collatz related problems.
+3. **Numerical Analysis:** Applied numerical techniques to find convergent approximations to unwieldy systems of linear equations.
 
 ---
 
 ## Technologies & Tools
 | **Category**         | **Tools**                                                                                           |
 |-----------------------|----------------------------------------------------------------------------------------------------|
-| Programming Languages | Python, C/C++, Java, LaTeX                                                                         |
-| Development Tools     | Eclipse, BlueJ, TrueNAS SCALE, Git                                                                |
-| Areas of Interest     | Reinforcement Learning, Algorithm Design, Numerical Analysis                                       |
+| Programming Languages | Python, C/C++, Java, SQL, Verilog, ARMv4 Assembly, LaTeX                                                                         |
+| Development Tools     | Eclipse, BlueJ, IntelliJ IDEA, Visual Studio Code                                                  |
+| Areas of Interest     | Reinforcement Learning, Algorithm Design, Graph Theory                                             |
 
 ---
 
