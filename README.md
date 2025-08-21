@@ -47,7 +47,7 @@ Here are a few highlights of my recent explorations:
 | **Category**          | **Tools**                                                                                          |
 |-----------------------|----------------------------------------------------------------------------------------------------|
 | Programming Languages | Python, C/C++, Java, JavaScript, SQL, SystemVerilog, ARMv4 Assembly, LaTeX                         |
-| Development Tools     | Eclipse, BlueJ, IntelliJ IDEA, Visual Studio Code                                                  |
+| Development Tools     | Eclipse, IntelliJ IDEA, Visual Studio Code                                                         |
 | Areas of Interest     | Reinforcement Learning, Algorithm Design, Graph Theory, Machine Learning                           |
 
 ---
