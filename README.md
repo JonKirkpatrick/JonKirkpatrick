@@ -10,8 +10,8 @@
 ## About Me
 I’m a **Pure Mathematics and Computer Science Student** with a background in electronics manufacturing. My focus is on blending rigorous mathematical foundations with practical programming skills to solve complex problems elegantly. 
 
-🔹 **Currently exploring:** CUDA programming, reinforcement learning, and graph theory  
-🔹 **Aspirations:** To apply my skills in software development, build tools that matter, and contribute to open-source projects
+🔹 **Currently exploring:** 1D Separable Convolutional Neural Networks, SystemVerilog and FPGAs  
+🔹 **Aspirations:** To apply my skills in software-hardware co-design, build tools that matter, and contribute to open-source projects
 
 ---
 
@@ -30,7 +30,6 @@ I’m a **Pure Mathematics and Computer Science Student** with a background in e
 | **Project**      | **Description**                                                                                      | **Technologies**        |
 |-------------------|------------------------------------------------------------------------------------------------------|-------------------------|
 | [CUDA Collatz](https://github.com/your-username/cuda-collatz) | Optimized CUDA kernel for calculating Collatz sequence lengths.                                 | CUDA, C++, Python              |
-| [Greek Cuisine Recipes](https://github.com/your-username/greek-recipes) | An exploration of Hellenic culinary traditions with recipes and cultural insights.              | Markdown, Cooking      |
 | [Interactive RL Gridworld](https://github.com/your-username/rl-gridworld) | Visualizing Q-value evolution in reinforcement learning gridworlds.                            | Python, Matplotlib     |
 | [Light Hearted Storybook](https://github.com/your-username/tibbsorigin) | An original story about the Newfoundland tradition of Tibb's Eve.                               | Latex               |
 | [FPGA Projects](https://github.com/your-username/DE10_Lite) | A variety of small programs written in Verilog for use on a DE10-Lite                                     | Verilog, C                 |
@@ -39,17 +38,17 @@ I’m a **Pure Mathematics and Computer Science Student** with a background in e
 ## Recent Work
 Here are a few highlights of my recent explorations:
 1. **Reinforcement Learning:** Completed MATH 4250 with a focus on manual implementations of RL agents in Python without using any ML libraries.
-2. **Graph Visualization:** Experimented with balanced ternary and binary hypercube graphs for Collatz related problems.
+2. **Software-Hardware Co-Design:** Implemented a 1D Separable CNN on a very light FPGA capable of tactile classification based on IMU and barometric sensor data.
 3. **Numerical Analysis:** Applied numerical techniques to find convergent approximations to unwieldy systems of linear equations.
 
 ---
 
 ## Technologies & Tools
-| **Category**         | **Tools**                                                                                           |
+| **Category**          | **Tools**                                                                                          |
 |-----------------------|----------------------------------------------------------------------------------------------------|
-| Programming Languages | Python, C/C++, Java, SQL, Verilog, ARMv4 Assembly, LaTeX                                                                         |
+| Programming Languages | Python, C/C++, Java, JavaScript, SQL, SystemVerilog, ARMv4 Assembly, LaTeX                         |
 | Development Tools     | Eclipse, BlueJ, IntelliJ IDEA, Visual Studio Code                                                  |
-| Areas of Interest     | Reinforcement Learning, Algorithm Design, Graph Theory                                             |
+| Areas of Interest     | Reinforcement Learning, Algorithm Design, Graph Theory, Machine Learning                           |
 
 ---
 
