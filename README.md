@@ -29,10 +29,10 @@ I’m a **Pure Mathematics and Computer Science Student** with a background in e
 
 | **Project**      | **Description**                                                                                      | **Technologies**        |
 |-------------------|------------------------------------------------------------------------------------------------------|-------------------------|
-| [CUDA Collatz](https://github.com/your-username/cuda-collatz) | Optimized CUDA kernel for calculating Collatz sequence lengths.                                 | CUDA, C++, Python              |
+| [CUDA Collatz](https://github.com/your-username/cuda-collatz) | Optimized CUDA kernel for calculating Collatz sequence lengths.                                 | CUDA, Python              |
 | [Interactive RL Gridworld](https://github.com/your-username/rl-gridworld) | Visualizing Q-value evolution in reinforcement learning gridworlds.                            | Python, Matplotlib     |
 | [Light Hearted Storybook](https://github.com/your-username/tibbsorigin) | An original story about the Newfoundland tradition of Tibb's Eve.                               | Latex               |
-| [FPGA Projects](https://github.com/your-username/DE10_Lite) | A variety of small programs written in Verilog for use on a DE10-Lite                                     | Verilog, C                 |
+| [Convolutional Neural Network](https://github.com/your-username/DE10_Lite) | A generalized, instruction driven, integer only, neural network for constrained hardware                                     | Verilog, Python                 |
 ---
 
 ## Recent Work
@@ -55,7 +55,6 @@ Here are a few highlights of my recent explorations:
 ## Connect with Me
 | Platform             | Details                                             |
 |----------------------|-----------------------------------------------------|
-| **LinkedIn**         | [View my profile](https://www.linkedin.com/in/your-profile) |
 | **Email**            | your.email@example.com                              |
 | **Portfolio**        | [Visit my site](https://yourwebsite.com)            |
 
