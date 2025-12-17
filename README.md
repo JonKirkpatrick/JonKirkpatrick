@@ -45,7 +45,6 @@ Here are a few highlights of my recent explorations:
 ## Connect with Me
 | Platform             | Details                                             |
 |----------------------|-----------------------------------------------------|
-| **Email**            | your.email@example.com                              |
-| **Portfolio**        | [Visit my site](https://yourwebsite.com)            |
+| **Email**            | jon.kirkpatrick@pm.me                              |
 
 ---
