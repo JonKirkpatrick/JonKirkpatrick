@@ -8,7 +8,7 @@
 
 <!-- Introduction Section -->
 ## About Me
-I’m a **Pure Mathematics and Computer Science Student** with a background in electronics manufacturing. My focus is on blending rigorous mathematical foundations with practical programming skills to solve complex problems elegantly. 
+I’m a recent graduate of a **Pure Mathematics and Computer Science** program at Memorial University, with a background in electronics manufacturing. My focus is on blending rigorous mathematical foundations with practical programming skills to solve complex problems elegantly. 
 
 🔹 **Currently exploring:** 1D Separable Convolutional Neural Networks, SystemVerilog and FPGAs  
 🔹 **Aspirations:** To apply my skills in software-hardware co-design, build tools that matter, and contribute to open-source projects
