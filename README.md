@@ -28,7 +28,7 @@ I’m a recent graduate of a **Pure Mathematics and Computer Science** program a
 ## Recent Work
 Here are a few highlights of my recent explorations:
 1. **Reinforcement Learning:** Completed MATH 4250 with a focus on manual implementations of RL agents in Python without using any ML libraries.
-2. **Software-Hardware Co-Design:** Implemented a 1D Separable CNN on a very light FPGA capable of tactile classification based on IMU and barometric sensor data.
+2. **Software-Hardware Co-Design:** Implemented a 1D Separable CNN on a very light FPGA capable of tactile classification based on IMU and barometric sensor data.  This work is ongoing, and has expanded to explore integer only learning.
 3. **Numerical Analysis:** Applied numerical techniques to find convergent approximations to unwieldy systems of linear equations.
 
 ---
