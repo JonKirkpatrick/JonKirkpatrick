@@ -29,7 +29,7 @@ I’m a recent graduate of a **Pure Mathematics and Computer Science** program a
 Here are a few highlights of my recent explorations:
 1. **Reinforcement Learning:** Completed MATH 4250 with a focus on manual implementations of RL agents in Python without using any ML libraries.
 2. **Software-Hardware Co-Design:** Implemented a 1D Separable CNN on a very light FPGA capable of tactile classification based on IMU and barometric sensor data.  This work is ongoing, and has expanded to explore integer only learning.
-3. **Numerical Analysis:** Applied numerical techniques to find convergent approximations to unwieldy systems of linear equations.
+3. **Applied Differential Geometry:** Developed a small utility to unroll torus knots into developable bands, swept wide enough to form a manifold and exported as a printable net along with a Blender mesh object to inspect in 3D.
 
 ---
 
