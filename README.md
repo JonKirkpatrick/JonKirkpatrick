@@ -27,7 +27,7 @@ I’m a recent graduate of a **Pure Mathematics and Computer Science** program a
 
 ## Recent Work
 Here are a few highlights of my recent explorations:
-1. **Reinforcement Learning:** Completed MATH 4250 with a focus on manual implementations of RL agents in Python without using any ML libraries.
+1. **AI Bot Competition:** Wrote a small server to facilitate competition between bots playing perfect information games.  It allows developers to author bots in the language of their choice, communicating via JSON objects over a TCP connection.
 2. **Software-Hardware Co-Design:** Implemented a 1D Separable CNN on a very light FPGA capable of tactile classification based on IMU and barometric sensor data.  This work is ongoing, and has expanded to explore integer only learning.
 3. **Applied Differential Geometry:** Developed a small utility to unroll torus knots into developable bands, swept wide enough to form a manifold and exported as a printable net along with a Blender mesh object to inspect in 3D.
 
@@ -36,7 +36,7 @@ Here are a few highlights of my recent explorations:
 ## Technologies & Tools
 | **Category**          | **Tools**                                                                                          |
 |-----------------------|----------------------------------------------------------------------------------------------------|
-| Programming Languages | Python, C/C++, Java, JavaScript, SQL, SystemVerilog, ARMv4 Assembly, LaTeX                         |
+| Programming Languages | Python, C/C++, Java, JavaScript, SQL, SystemVerilog, ARMv4 Assembly, Go, LaTeX                     |
 | Development Tools     | Eclipse, IntelliJ IDEA, Visual Studio Code                                                         |
 | Areas of Interest     | Reinforcement Learning, Algorithm Design, Graph Theory, Machine Learning                           |
 
